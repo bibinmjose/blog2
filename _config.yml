@@ -25,8 +25,8 @@ markdown: kramdown
 # kramdown:
 #     math_engine: katex
     
-kramdown:
-  math_engine: mathjax
+# kramdown:
+#   math_engine: mathjax
 #   math_engine_opts:
 #     preview:           true
 #     preview_as_code:   true
