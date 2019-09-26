@@ -22,11 +22,12 @@ production_url : https://bibinmjose.github.io/blog
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
+mathjax: true
 # kramdown:
 #     math_engine: katex
     
-# kramdown:
-#   math_engine: mathjax
+kramdown:
+  math_engine: mathjax
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
