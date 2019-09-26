@@ -10,18 +10,20 @@ highlighter: rouge
 #
 title : simple site
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : bibin jose
+  email : bibinmjose@gmail.com
+  github : bibinmjose
+  twitter : nil
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://bibinmjose.github.io/blog
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
+kramdown:
+    math_engine: katex
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
