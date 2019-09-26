@@ -26,7 +26,6 @@ markdown: kramdown
 #     math_engine: katex
     
 kramdown:
-  footnote_backlink:   '&#x21a9;&#xfe0e;'
   math_engine: mathjax
   math_engine_opts:
     preview:           true
