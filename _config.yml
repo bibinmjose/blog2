@@ -26,8 +26,8 @@ mathjax: true
 # kramdown:
 #     math_engine: katex
     
-kramdown:
-  math_engine: mathjax
+# kramdown:
+#   math_engine: mathjax
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
